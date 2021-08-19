@@ -3,6 +3,6 @@ Demo
 This is github sessio
 
 ## Technologies used:
-python
-java
-flask
+1-python
+2-java
+3-flask
